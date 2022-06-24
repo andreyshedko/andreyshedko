@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andreyshedko
-- 👀 I’m interested in React, Next.js, SCSS, Node.js, TypeScript, DevOps
+- 👀 I’m interested in React, SCSS, Node.js, TypeScript, DevOps
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/andrey_shedko
