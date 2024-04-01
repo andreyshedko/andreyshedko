@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreyshedko
-- 👀 I’m interested in React, SCSS, Node.js, TypeScript, DevOps
-- 🌱 I’m currently learning DevOps
+- 👀 I’m interested in React, SCSS, Node.js, TypeScript, DevOps, Svete, Rust
+- 🌱 I’m currently learning Svelte and Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://t.me/andrey_shedko
 
